@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="edit_name">your name</string>
+    <string name="edit_date">your birth date</string>
+    <string name="edit_mail">your Email</string>
+    <string name="edit_phone">your mobile number</string>
+    <string name="edit_address">your address</string>
+    <string name="edit_nickname">my nickname</string>
+    <string name="send">Send</string>
+    <string name="tittle">My Profile</string>
+</resources>
