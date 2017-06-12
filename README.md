@@ -3,7 +3,7 @@ Task:
   To get details from user and display it in a unique layout.
   I used two libraries from "androidarsenal.com".Frisson layout and Shimmerlayout to display the details from user.
 How to use:
-  clone or download the project and import in android studio or download apk file 'app-apk-debug' and install to run.
+  clone or download the project and import in android studio or download apk file 'app-debug.apk' and install to run.
 Note:
   The layout files
       *activity_display.xml
